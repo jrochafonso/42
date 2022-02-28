@@ -29,3 +29,4 @@ Technical considerations
 • It is forbidden to submit unused files.
 • Every .c must compile with flags.
 • You must use the command ar to create your library, using the command libtool is forbidden.
+#
