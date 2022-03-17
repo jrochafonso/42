@@ -116,6 +116,8 @@ Defaults	badpass_message=“please re-enter password to delete /var/log/sudo/sud
 
 (end)
 
+# if needed, "sudo mkdir sudo" and "sudo nano sudo.log" in /var/log/
+
 #copy all the content in “sudo visudo” and paste it to (it will be useful later, during eva): #no
 sudo nano /etc/sudoers.d/sudoconfig							         #no
 
